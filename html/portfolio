@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My portfolio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="portfolio.css">
+
+  </head>
+  <body>
+
+
+  	<div class="header">
+	    <h1 style="text-align: center;">Tyler's Portfolio</h1>
+
+	    <p class="spacing">This is a portfolio about me. Scroll down to see a brief section about be. To see more click the buttons.</p>
+	</div>
+
+	<div class="links">
+	    <a class="button1 button" href="file:///Users/tmorimoto25/Desktop/Tyler_Morimoto_portfolio/About_me.html" > More about Me</a>	
+
+	    <a class="button2 button" href="file:///Users/tmorimoto25/Desktop/Tyler_Morimoto_portfolio/Projects.html" > Projects</a>
+	</div>
+  <div class="row">
+    <div class="left" id="left">
+      <div class="boxes">
+        <h2>Brief About me</h2>
+        <h5>Updated 9/7/2024</h5>
+        <img src="IMG_6846.PNG" class="img" id="img2">
+        <p>I'm Tyler Morimoto, I live in a family of four with my Dad, Mom, Sister and me. I also have a two dogs. I go to Punahou school and have been at Punahou for 13 years. I am now in seinor year looking to go to colleges. I have played in some sports and have found lots of interests in computer science.</p>
+      </div>
+      <div class="boxes">
+        <h2>Coding Experinces</h2>
+        <h5>Updated 9/7/2024</h5>
+        <img 
+        <p class="margin">I have had a good amount of coding experinces. In middle school I took a lot of different computer classes working in HTML and game design. While I wasn't the best at it I still found lots of interests in it. Another reason why I found so much interests in computers is my Mom used to work at IT for Punahou, so after school I would go to her office a lot and hang out with people who work at IT. This exposed me to computers very early on and helped build an interest on how it worked. I have also recently done a internship for stanford for an AI in Medical cource. While this doesn't teach the type of coding we are doing this taught me a lot about how more complicated coding works and how it opperates.</p>
+      </div>
+    </div>
+
+  </div>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+  </body>
+</html>
